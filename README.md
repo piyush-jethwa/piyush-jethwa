@@ -75,4 +75,4 @@
 ---
 
 ### 🔄 GitHub Snake
-![snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svggggggg)
